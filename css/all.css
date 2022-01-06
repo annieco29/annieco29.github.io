@@ -332,9 +332,9 @@ h2.slogan{
 .progress li span.nlp{width: 60%;}
 .progress li span.deeplearning{width: 30%;}
 .progress li span.python{width: 90%;}
-.progress li span.sql{width: 85%;}
-.progress li span.jquery{width: 70%;}
-.progress li span.seo{width: 40%;}
+.progress li span.sql{width: 80%;}
+.progress li span.dataviz{width: 80%;}
+.progress li span.cloud{width: 40%;}
 .plagin_list{
 	width: 100%;
 	overflow: hidden;
