@@ -652,10 +652,6 @@ transition: all 0.5s ease-in-out;
 		background-image: url(../images/icon_email@x2.png);
 		background-size:51px 38px;
 	}
-	.footer-content .social li.facebook a{
-		background-image: url(../images/icon_fb@x2.png);
-		background-size:20px 38px;
-	}
 	.footer-content .social li.google a{
 		background-image: url(../images/icon_gl@x2.png);
 		background-size:42px 38px;
