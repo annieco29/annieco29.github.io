@@ -327,10 +327,10 @@ h2.slogan{
 	font-size: 18px;
 	padding: 0 0 0 20px;
 }
-.progress li span.photoshop{width: 100%;}
-.progress li span.illustrator{width: 70%;}
-.progress li span.indesign{width: 40%;}
-.progress li span.flash{width: 80%;}
+.progress li span.descriptive{width: 100%;}
+.progress li span.regression{width: 100%;}
+.progress li span.nlp{width: 60%;}
+.progress li span.deeplearning{width: 30%;}
 .progress li span.html{width: 75%;}
 .progress li span.wordpress{width: 85%;}
 .progress li span.jquery{width: 70%;}
